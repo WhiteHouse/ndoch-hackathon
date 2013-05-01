@@ -17,7 +17,8 @@ While there's limited space at the event we'll hold at the White House that day,
 
 We hope that you'll use this repo as a space to coordinate with other participants. If you'd like to form groups to work on a shared project, or to post code here for other participants to reuse, please feel free. This is your sandbox.
 
-To report bugs in the  We the People API, please	visit the repo for the petitions application: https://github.com/WhiteHouse/petitions
+To report bugs in the  We the People API, please	visit the [repo for the White House petitions application](https://github.com/WhiteHouse/petitions
+).
 
 <h1 id="getting-started">Getting started</h1>
 
