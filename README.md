@@ -25,6 +25,8 @@ To report bugs in the  We the People API, please	visit the [repo for the White H
 To get started:
 
  - [Introduce yourself](https://github.com/WhiteHouse/ndoch-hackathon/issues/1)! We've opened an issue for introductions.
+ - Read the [documentation for the We the People API](https://petitions.whitehouse.gov/developers).
+ - Check out the gallery of [projects from the White House Open Data Day hackathon](https://petitions.whitehouse.gov/how-why/api-gallery).
  - Follow us on Twitter [@WHWeb](http://twitter.com/whweb).
 
 <h1 id="privacy">Privacy</h1>
