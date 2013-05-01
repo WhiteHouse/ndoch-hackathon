@@ -23,10 +23,10 @@ To report bugs in the  We the People API, please	visit the repo for the petition
 
 To get started:
 
- - Introduce yourself! We've opened an issue for introductions.
- - Follow us on Twitter @WHWeb
+ - [Introduce yourself](https://github.com/WhiteHouse/ndoch-hackathon/issues/1)! We've opened an issue for introductions.
+ - Follow us on Twitter [@WHWeb](http://twitter.com/whweb).
 
 <h1 id="privacy">Privacy</h1>
 
 This repo is associated with the official White House GitHub profile. All comments, messages, commits, and other submissions received through official White House pages including this GitHub page are subject to the Presidential Records Act and may be archived.
-Learn more: http://WhiteHouse.gov/privacy
+Learn more: [http://WhiteHouse.gov/privacy](http://WhiteHouse.gov/privacy)
