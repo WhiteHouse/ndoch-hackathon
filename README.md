@@ -11,7 +11,7 @@ National Day of Civic Hacking at the White House
 
 Welcome to the GitHub repo for the National Day of Civic Hacking at the White House! We're excited to be working with you.
 
-Our goal for the hackathon on June 1 is to help participants release full, production-ready apps that leverge the We the People API and make them available under an open source license.
+Our goal for the hackathon on June 1 is to help participants release full, production-ready apps that leverage the We the People API and make them available under an open source license.
 
 While there's limited space at the event we'll hold at the White House that day, we hope this repo will allow everybody to take part.
 
